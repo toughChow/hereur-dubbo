@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-helloworld" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-helloworld/boot-order-service-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-helloworld/boot-user-service-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-helloworld/gmall-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-helloworld/order-service-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-helloworld/user-service-provider" charset="UTF-8" />
+  </component>
+</project>
