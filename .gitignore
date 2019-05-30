@@ -1,0 +1,39 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+dubbo-helloworld/gmall-interface/gmall-interface.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/hereur-dubbo.iml
+/.idea/
+/dubbo-helloworld/boot-order-service-consumer/mvnw
+/dubbo-helloworld/boot-order-service-consumer/.mvn/
+/dubbo-helloworld/boot-order-service-consumer/boot-order-service-consumer.iml
+/dubbo-helloworld/boot-order-service-consumer/mvnw.cmd
+/dubbo-helloworld/boot-user-service-provider/mvnw
+/dubbo-helloworld/boot-user-service-provider/mvnw.cmd
+/dubbo-helloworld/boot-user-service-provider/boot-user-service-provider.iml
+/dubbo-helloworld/boot-user-service-provider/.mvn/
+/dubbo-helloworld/user-service-provider/user-service-provider.iml
+/dubbo-helloworld/dubbo-helloworld.iml
+/pom.xml
+!/dubbo-helloworld/pom.xml
